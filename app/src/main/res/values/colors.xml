@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="grey">#363535</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_700">#19287B</color>
+    <color name="purple_200">#4359D6</color>
+    <color name="teal_200">#4AC6BB</color>
+    <color name="teal_500">#1C8278</color>
+    <color name="teal_700">#05C9B6</color>
+    <color name="bg_chat_item">#D5B396</color>
+    <color name="bg_chat_item_self">#3FB4E8</color>
+</resources>

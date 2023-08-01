@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatApplication</string>
+    <string name="enter_messaging">Enter Messaging</string>
+    <string name="send">Send</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="join">Join</string>
+</resources>
