@@ -1,4 +1,4 @@
-#### Chat App for Android using Socket.io - Beginner's Guide
+# Chat App for Android using Socket.io - Beginner's Guide
 ## Introduction
 
 In this beginner's guide, we'll walk you through the process of creating a simple chat application for Android using Socket.io. Socket.io is a popular library that enables real-time, bidirectional communication between the client (in our case, the Android app) and the server. We will build a basic chat app where users can send and receive messages in real-time.
